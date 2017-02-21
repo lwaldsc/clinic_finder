@@ -49,3 +49,5 @@ We'd like to walk away with:
 
 * A ruby gem that we can install in a separate app
 * A standalone sinatra app that we can demo to case managers
+
+# moneycat.gif
